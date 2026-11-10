@@ -1,79 +1,107 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:00C9FF&height=220&section=header&text=DHARSHAN%20E&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Software%20Developer&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:071426,100:00C9FF&height=230&section=header&text=DHARSHAN%20E&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=ASPIRING%20SOFTWARE%20DEVELOPER&descSize=18&descColor=00C9FF&descAlignY=60&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Computer+Science+Engineering+Student;Passionate+about+Software+Development;Building+Ideas+into+Reality" />
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-Hello! I'm **Dharshan E**, a Computer Science Engineering student passionate about creating technology-driven solutions.
-
-- 🎓 B.E. Computer Science Engineering
-- 💻 Aspiring Software Developer
-- 🌱 Exploring Python, C and Web Development
-- 🚀 Interested in building innovative applications
-- 💡 Always curious to learn new technologies
-- 🎯 Focused on growing as a developer
-
----
-
-## ⚡ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,html,css,js,git,github,vscode&theme=dark" />
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description |
-|---|---|
-| 🍽️ Food Bridge | Web-based project |
-| 🩸 BloodNova | Blood donation related project |
-| 📚 DAA Learning Platform | Learning platform project |
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=dhatchu929-crypto&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhatchu929-crypto&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Computer+Science+Engineering+Student;Aspiring+Software+Developer;Python+%7C+C+%7C+C%2B%2B;Web+Development;Building+Ideas+into+Reality" />
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=dhatchu929-crypto&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/dhatchu929-crypto">
+<img src="https://img.shields.io/badge/GitHub-Profile-00C9FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/dharshan-e-851534434">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-00C9FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+</a>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 👨‍💻 ABOUT ME
+
+Hello! I'm **Dharshan E**, a Computer Science Engineering student passionate about technology, programming and software development.
+
+- 🎓 B.E. Computer Science Engineering
+- 💻 Aspiring Software Developer
+- 🌱 Exploring Python, C, C++ and Web Development
+- 🚀 Interested in building innovative applications
+- 💡 Passionate about problem-solving
+- 🎯 Focused on continuous learning and improvement
+
+---
+
+## ⚡ TECHNICAL SKILLS
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dhatchu929-crypto&theme=tokyonight&no-frame=true&row=1&column=6" width="100%"/>
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp&theme=dark" />
+
+### Web Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 🚀 FEATURED PROJECTS
+
+<div align="center">
+
+<a href="YOUR_ALGO_MASTERY_REPO_LINK">
+<img src="https://img.shields.io/badge/Algo%20Mastery%20Paths-00C9FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+<a href="YOUR_FOOD_BRIDGE_REPO_LINK">
+<img src="https://img.shields.io/badge/Food%20Bridge-00C9FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+<a href="YOUR_BLOODNOVA_REPO_LINK">
+<img src="https://img.shields.io/badge/BloodNova-00C9FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</div>
+
+---
+
+## 📊 GITHUB ANALYTICS
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=dhatchu929-crypto&show_icons=true&hide_border=true&bg_color=050505&title_color=00C9FF&icon_color=00C9FF&text_color=FFFFFF&rank_icon=github" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhatchu929-crypto&layout=compact&hide_border=true&bg_color=050505&title_color=00C9FF&text_color=FFFFFF" />
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=dhatchu929-crypto&background=050505&border=00C9FF&stroke=00C9FF&ring=00C9FF&fire=00C9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00C9FF&sideLabels=00C9FF&dates=AAAAAA&hide_border=false" />
+
+</div>
+
+---
+
+## 🌐 CONNECT WITH ME
 
 <div align="center">
 
 <a href="https://github.com/dhatchu929-crypto">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00C9FF"/>
+</a>
+
+<a href="https://www.linkedin.com/in/dharshan-e-851534434">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00C9FF"/>
+</a>
+
+<a href="mailto:dhatchu929@gmail.com">
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00C9FF"/>
 </a>
 
 </div>
@@ -82,8 +110,10 @@ Hello! I'm **Dharshan E**, a Computer Science Engineering student passionate abo
 
 <div align="center">
 
-### 💫 "Dream. Learn. Code. Create. Repeat."
+### 💫 DREAM. LEARN. CODE. CREATE.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:243B55&height=120&section=footer"/>
+**Thanks for visiting my GitHub profile!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:071426,100:000000&height=130&section=footer" width="100%"/>
 
 </div>
