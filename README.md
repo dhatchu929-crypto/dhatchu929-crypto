@@ -60,7 +60,7 @@ Hello! I'm **Dharshan E**, a Computer Science Engineering student passionate abo
 
 An interactive platform for learning algorithms and improving problem-solving skills.
 
-<a href="https://daalearningplatform.netlify.com">
+<a href="https://daalearningplatform.netlify.app">
 <img src="https://img.shields.io/badge/LIVE%20DEMO-00C9FF?style=for-the-badge&logo=netlify&logoColor=black"/>
 </a>
 <a href="https://github.com/dhatchu929-crypto/algo-mastery-path">
