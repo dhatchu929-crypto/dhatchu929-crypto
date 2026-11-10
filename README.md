@@ -56,16 +56,41 @@ Hello! I'm **Dharshan E**, a Computer Science Engineering student passionate abo
 
 <div align="center">
 
-<a href="YOUR_ALGO_MASTERY_REPO_LINK">
-<img src="https://img.shields.io/badge/Algo%20Mastery%20Paths-00C9FF?style=for-the-badge&logo=github&logoColor=black"/>
+### 🔹 Algo Mastery Path
+
+An interactive platform for learning algorithms and improving problem-solving skills.
+
+<a href="https://daalearningplatform.netlify.com">
+<img src="https://img.shields.io/badge/LIVE%20DEMO-00C9FF?style=for-the-badge&logo=netlify&logoColor=black"/>
+</a>
+<a href="https://github.com/dhatchu929-crypto/algo-mastery-path">
+<img src="https://img.shields.io/badge/SOURCE%20CODE-000000?style=for-the-badge&logo=github&logoColor=00C9FF"/>
 </a>
 
-<a href="YOUR_FOOD_BRIDGE_REPO_LINK">
-<img src="https://img.shields.io/badge/Food%20Bridge-00C9FF?style=for-the-badge&logo=github&logoColor=black"/>
+<br/><br/>
+
+### 🔹 Food Bridge
+
+A platform designed to connect food donors with people in need and help reduce food waste.
+
+<a href="https://food-bridge-inky.vercel.app">
+<img src="https://img.shields.io/badge/LIVE%20DEMO-00C9FF?style=for-the-badge&logo=vercel&logoColor=black"/>
+</a>
+<a href="https://github.com/dhatchu929-crypto/food-bridge">
+<img src="https://img.shields.io/badge/SOURCE%20CODE-000000?style=for-the-badge&logo=github&logoColor=00C9FF"/>
 </a>
 
-<a href="YOUR_BLOODNOVA_REPO_LINK">
-<img src="https://img.shields.io/badge/BloodNova-00C9FF?style=for-the-badge&logo=github&logoColor=black"/>
+<br/><br/>
+
+### 🔹 BloodNova
+
+A platform focused on connecting blood donors with people who need blood.
+
+<a href="https://bloodnova.vercel.app">
+<img src="https://img.shields.io/badge/LIVE%20DEMO-00C9FF?style=for-the-badge&logo=vercel&logoColor=black"/>
+</a>
+<a href="https://github.com/dhatchu929-crypto/bloodnova">
+<img src="https://img.shields.io/badge/SOURCE%20CODE-000000?style=for-the-badge&logo=github&logoColor=00C9FF"/>
 </a>
 
 </div>
